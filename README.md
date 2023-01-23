@@ -1,2 +1,2 @@
 # skincancerdiagnostic
-Python ML model designed using Tensorflow to diagnose skin cancers.
+Skin cancer diagnostic machine learning model utilizing imaging input. Coded in Python and uses Tensorflow.
